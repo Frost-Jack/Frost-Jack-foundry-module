@@ -30,5 +30,7 @@
     }
   ],
   "description": "Golden Runo - Quality Of Life Cyberpunk Module",
-  "url": "https://github.com/Frost-Jack"
+  "url": "https://github.com/Frost-Jack/Frost-Jack-foundry-module",
+  "manifest": "https://github.com/Frost-Jack/Frost-Jack-foundry-module/releases/download/latest/module.json",
+  "download": "https://github.com/Frost-Jack/Frost-Jack-foundry-module/releases/download/latest/module.zip"
 }
