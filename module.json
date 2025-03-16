@@ -27,6 +27,66 @@
         "PLAYER": "OBSERVER",
         "ASSISTANT": "OWNER"
       }
+    },
+    {
+      "name": "frost-jack-actors",
+      "label": "Frost Jack Actors",
+      "path": "packs/frost-jack-actors",
+      "type": "Actor",
+      "system": "cyberpunk-red-core",
+      "banner": "systems/cyberpunk-red-core/images/compendium-banner.webp",
+      "ownership": {
+        "PLAYER": "OBSERVER",
+        "ASSISTANT": "OWNER"
+      }
+    },
+    {
+      "name": "all-about-agents",
+      "label": "All About Agents",
+      "path": "packs/all-about-agents",
+      "type": "Item",
+      "system": "cyberpunk-red-core",
+      "banner": "systems/cyberpunk-red-core/images/compendium-banner.webp",
+      "ownership": {
+        "PLAYER": "OBSERVER",
+        "ASSISTANT": "OWNER"
+      }
+    },
+    {
+      "name": "going-metal",
+      "label": "Going Metal",
+      "path": "packs/going-metal",
+      "type": "Item",
+      "system": "cyberpunk-red-core",
+      "banner": "systems/cyberpunk-red-core/images/compendium-banner.webp",
+      "ownership": {
+        "PLAYER": "OBSERVER",
+        "ASSISTANT": "OWNER"
+      }
+    },
+    {
+      "name": "mixing-drinks-changing-lives",
+      "label": "Mixing Drinks Changing Lives",
+      "path": "packs/mixing-drinks-changing-lives",
+      "type": "Item",
+      "system": "cyberpunk-red-core",
+      "banner": "systems/cyberpunk-red-core/images/compendium-banner.webp",
+      "ownership": {
+        "PLAYER": "OBSERVER",
+        "ASSISTANT": "OWNER"
+      }
+    },
+    {
+      "name": "the-12-days-of-gearmas",
+      "label": "The 12 Days of Gearmas",
+      "path": "packs/the-12-days-of-gearmas",
+      "type": "Item",
+      "system": "cyberpunk-red-core",
+      "banner": "systems/cyberpunk-red-core/images/compendium-banner.webp",
+      "ownership": {
+        "PLAYER": "OBSERVER",
+        "ASSISTANT": "OWNER"
+      }
     }
   ],
   "description": "Golden Runo - Quality Of Life Cyberpunk Module",
