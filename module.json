@@ -77,10 +77,46 @@
       }
     },
     {
+      "name": "the-12-days-of-redmas",
+      "label": "The 12 Days of REDmas",
+      "path": "packs/the-12-days-of-redmas",
+      "type": "Item",
+      "system": "cyberpunk-red-core",
+      "banner": "systems/cyberpunk-red-core/images/compendium-banner.webp",
+      "ownership": {
+        "PLAYER": "OBSERVER",
+        "ASSISTANT": "OWNER"
+      }
+    },
+    {
       "name": "the-12-days-of-gearmas",
       "label": "The 12 Days of Gearmas",
       "path": "packs/the-12-days-of-gearmas",
       "type": "Item",
+      "system": "cyberpunk-red-core",
+      "banner": "systems/cyberpunk-red-core/images/compendium-banner.webp",
+      "ownership": {
+        "PLAYER": "OBSERVER",
+        "ASSISTANT": "OWNER"
+      }
+    },
+    {
+      "name": "rolltables-fj",
+      "label": "Slot Machine Rolltable",
+      "path": "packs/rolltables-fj",
+      "type": "RollTable",
+      "system": "cyberpunk-red-core",
+      "banner": "systems/cyberpunk-red-core/images/compendium-banner.webp",
+      "ownership": {
+        "PLAYER": "OBSERVER",
+        "ASSISTANT": "OWNER"
+      }
+    },
+    {
+      "name": "macro-fj",
+      "label": "Frost Jack Macroses",
+      "path": "packs/macro-fj",
+      "type": "Macro",
       "system": "cyberpunk-red-core",
       "banner": "systems/cyberpunk-red-core/images/compendium-banner.webp",
       "ownership": {
