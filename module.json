@@ -101,9 +101,33 @@
       }
     },
     {
+      "name": "the-12-days-of-cutiemas",
+      "label": "The 12 Days of Cutiemas",
+      "path": "packs/the-12-days-of-cutiemas",
+      "type": "Item",
+      "system": "cyberpunk-red-core",
+      "banner": "systems/cyberpunk-red-core/images/compendium-banner.webp",
+      "ownership": {
+        "PLAYER": "OBSERVER",
+        "ASSISTANT": "OWNER"
+      }
+    },
+    {
       "name": "rolltables-fj",
       "label": "Slot Machine Rolltable",
       "path": "packs/rolltables-fj",
+      "type": "RollTable",
+      "system": "cyberpunk-red-core",
+      "banner": "systems/cyberpunk-red-core/images/compendium-banner.webp",
+      "ownership": {
+        "PLAYER": "OBSERVER",
+        "ASSISTANT": "OWNER"
+      }
+    },
+    {
+      "name": "updated-dv-table",
+      "label": "Updated DV Table",
+      "path": "packs/updated-dv-table",
       "type": "RollTable",
       "system": "cyberpunk-red-core",
       "banner": "systems/cyberpunk-red-core/images/compendium-banner.webp",
